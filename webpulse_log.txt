@@ -1,0 +1,9 @@
+[2025-10-29 10:49:57.405470] https://usti.ac.id | Status: 200 | Time: 0.51s | Size: 37425 | IP: 36.67.250.227
+[2025-10-29 10:52:40.288251] https://github.com | Status: 200 | Time: 7.32s | Size: 564085 | IP: 20.205.243.166
+[2025-10-29 10:55:15.813746] https://usti.ac.id | Status: 200 | Time: 3.04s | Size: 37425 | IP: 36.67.250.227
+[2025-10-29 11:01:51.892006] https://usti.ac.id | Status: 200 | Time: 1.29s | Size: 37425 | IP: 36.67.250.227
+[2025-10-29 11:05:10.968442] https://usti.ac.id | Status: 200 | Time: 5.27s | Size: 37425 | IP: 36.67.250.227
+[2025-10-29 11:06:54.160146] https://usti.ac.id | Status: 200 | Time: 0.61s | Size: 37425 | IP: 36.67.250.227
+[2025-10-29 11:08:04.042373] https://usti.ac.id | Status: 200 | Time: 0.95s | Size: 37425 | IP: 36.67.250.227
+[2025-10-29 11:11:17.560758] https://usti.ac.id | Status: 200 | Time: 1.81s | Size: 37425 | IP: 36.67.250.227
+[2025-10-29 11:45:54.613377] https://usti.ac.id | Status: 200 | Time: 1.27s | Size: 37425 | IP: 36.67.250.227
